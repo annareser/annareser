@@ -13,8 +13,8 @@
 ---
 
 ### Spring 2023 Class Schedule 
-BAIS:3300 - Digital Product Management  
-BAIS:3800 Optimization and Simulation Modeling
-BAIS:4150 Bus Analytics & Info Systems Capstone
-ECON: 3380 Business and Government
-ECON:3800 Law and Economics
+BAIS:3300 - Digital Product Management   
+BAIS:3800 Optimization and Simulation Modeling   
+BAIS:4150 Bus Analytics & Info Systems Capstone   
+ECON: 3380 Business and Government   
+ECON:3800 Law and Economics   
